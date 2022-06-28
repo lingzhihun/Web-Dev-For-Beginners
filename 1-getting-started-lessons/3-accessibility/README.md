@@ -218,7 +218,7 @@ Take this HTML and rewrite it to be as accessible as possible, given the strateg
 ```
 
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/6)
+[Post-lecture quiz](**https://happy-mud-02d95f10f.azurestaticapps.net/quiz/6**)
 
 ## Review & Self Study
 
